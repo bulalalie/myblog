@@ -12,7 +12,21 @@
     <lastmod>2024-08-15T17:30:08+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/primer/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/todo/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/todo/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/when-you-have-too-much-to-do/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
 </urlset>

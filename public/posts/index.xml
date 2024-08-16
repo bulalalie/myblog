@@ -6,6 +6,7 @@
     <description>Recent content in Posts on Cyber Shield: Adventures of a Security Engineer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Thu, 15 Aug 2024 17:30:08 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +15,13 @@
       <pubDate>Thu, 15 Aug 2024 17:30:08 +0800</pubDate>
       <guid>http://localhost:1313/posts/differences_in_kernel_extension_mac/</guid>
       <description>Differences in drivers, kernel extension, and system extension Overview Create drivers, system extensions, and kernel extensions for specific low-level system services.&#xA;A DriverKit extension (dext) manages the communication between your company&amp;rsquo;s hardware device and the rest of the system. A system extension implements features that require kernel-level cooperation, such as custom security and network behaviors. A kernel extension (kext) supports any low-level services that cannot be implemented using a dext or system extension.</description>
+    </item>
+    <item>
+      <title>When You Have Too Much to Do</title>
+      <link>http://localhost:1313/posts/when-you-have-too-much-to-do/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/when-you-have-too-much-to-do/</guid>
+      <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.&#xA;It all keeps piling up, and it can feel overwhelming.&#xA;How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
     </item>
   </channel>
 </rss>
